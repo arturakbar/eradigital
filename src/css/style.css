@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+/* utilitis */
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+
+.navbar .navbar-brand img {
+    width: 120px;
+}
+
+.navbar .navbar-nav .nav-link {
+    margin-right: 35px;
+}
+
+.navbar .navbar-nav .btn-teal {
+    width: 150px;
+}
+
+
+body .btn-teal {
+    background-color: #FEBA00;
+    color: white;
+    transition: box-shadow 0.3s ease;
+}
+
+body .btn-teal:hover {
+    background-color: #FEBA00;
+    color:white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    
+
+}
+
+
+.hero img{
+
+    height: 566px;
+   
+}
+
+.home {
+    margin-top: 100px;
+}
+
+.Produk .Card img {
+    margin-top: 20px;
+}
+
+footer {
+    background: #FEBA00;
+    height: 60px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 20px;
+}
+
+footer img {
+    margin-top: 10px;
+    align-items: center;
+}
